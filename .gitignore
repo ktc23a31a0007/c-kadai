@@ -1,0 +1,7 @@
+# Visual Studio 関連
+.vs/
+*.ipch
+*.VC.db
+
+# NuGet パッケージ
+*.nupkg
