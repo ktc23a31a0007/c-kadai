@@ -1,0 +1,8 @@
+﻿  Game.cpp
+C:\23a31a0007\c++\c++\c++\Game.cpp(52,55): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\23a31a0007\c++\c++\c++\Game.cpp(52,46): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\23a31a0007\c++\c++\c++\Game.cpp(54,37): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\23a31a0007\c++\c++\c++\Game.cpp(54,24): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  c++.cpp
+  コードを生成中...
+  c++.vcxproj -> C:\23a31a0007\c++\c++\x64\Debug\c++.exe
